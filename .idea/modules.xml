@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiGatewayService/Java6MicroService.ApiGatewayService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiGatewayService/Java6MicroService.ApiGatewayService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthMicroService/Java6MicroService.AuthMicroService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthMicroService/Java6MicroService.AuthMicroService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/Java6MicroService.ConfigServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/Java6MicroService.ConfigServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServerGit/Java6MicroService.ConfigServerGit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServerGit/Java6MicroService.ConfigServerGit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElasticMicroService/Java6MicroService.ElasticMicroService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ElasticMicroService/Java6MicroService.ElasticMicroService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserProfileMicroService/Java6MicroService.UserProfileMicroService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserProfileMicroService/Java6MicroService.UserProfileMicroService.main.iml" />
+    </modules>
+  </component>
+</project>
